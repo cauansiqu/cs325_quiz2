@@ -9,6 +9,7 @@ A simple python calculator that performs basic arithmetic operations.
 - Division
 
 ## How to run
+- Need Python installed in your PC
 - Using bash, make sure you are inside the cs325_quiz2 folder
 - Then run the following command:
     - python calculator.py OR python3 calculator.py 
